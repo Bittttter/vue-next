@@ -60,7 +60,7 @@ importers:
       '@rollup/plugin-alias': 4.0.3_rollup@3.20.0
       '@rollup/plugin-commonjs': 23.0.7_rollup@3.20.0
       '@rollup/plugin-json': 5.0.2_rollup@3.20.0
-      '@rollup/plugin-node-resolve': 15.0.1_rollup@3.20.0
+      '@rollup/plugin-node-resolve': 15.1.0_rollup@3.20.0
       '@rollup/plugin-replace': 5.0.2_rollup@3.20.0
       '@rollup/plugin-terser': 0.1.0_rollup@3.20.0
       '@types/hash-sum': 1.0.0
@@ -884,8 +884,8 @@ packages:
       rollup: 3.20.0
     dev: true
 
-  /@rollup/plugin-node-resolve/15.0.1_rollup@3.20.0:
-    resolution: {integrity: sha512-ReY88T7JhJjeRVbfCyNj+NXAG3IIsVMsX9b5/9jC98dRP8/yxlZdz7mHZbHk5zHr24wZZICS5AcXsFZAXYUQEg==}
+  /@rollup/plugin-node-resolve/15.1.0_rollup@3.20.0:
+    resolution: {integrity: sha512-xeZHCgsiZ9pzYVgAo9580eCGqwh/XCEUM9q6iQfGNocjgkufHAqC3exA+45URvhiYV8sBF9RlBai650eNs7AsA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
       rollup: ^2.78.0||^3.0.0
